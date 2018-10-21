@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">Provinsi di Indonesia</string>
+
+    <string-array name="provinsi_name">
+        <item>Provinsi Aceh</item>
+        <item>Provinsi Sumatera Utara</item>
+        <item>Provinsi Sumatera Barat</item>
+        <item>Provinsi Riau</item>
+        <item>Provinsi Jambi</item>
+        <item>Provinsi Sumatera Selatan</item>
+        <item>Provinsi Bengkulu</item>
+        <item>Provinsi Lampung</item>
+        <item>Provinsi Kepulauan Bangka Belitung</item>
+        <item>Provinsi Kepulauan Riau</item>
+        <item>Provinsi Banten</item>
+        <item>Provinsi DKI Jakarta</item>
+        <item>Provinsi Jawa Barat</item>
+        <item>Provinsi DI Yogyakarta</item>
+        <item>Provinsi Jawa Tengah</item>
+        <item>Provinsi Jawa Timur</item>
+        <item>Provinsi Bali</item>
+        <item>Provinsi Nusa Tenggara Timur</item>
+        <item>Provinsi Nusa Tenggara Barat</item>
+        <item>Provinsi Kalimantan Barat</item>
+        <item>Provinsi Kalimantan Tengah</item>
+        <item>Provinsi Kalimantan Selatan</item>
+        <item>Provinsi Kalimantan Timur</item>
+        <item>Provinsi Kalimantan Utara</item>
+        <item>Provinsi Gorontalo</item>
+        <item>Provinsi Sulawesi Utara</item>
+        <item>Provinsi Sulawesi Tengah</item>
+        <item>Provinsi Sulawesi Barat</item>
+        <item>Provinsi Sulawesi Selatan</item>
+        <item>Provinsi Sulawesi Tenggara</item>
+        <item>Provinsi Maluku</item>
+        <item>Provinsi Maluku Utara</item>
+        <item>Provinsi Papua</item>
+        <item>Provinsi Papua Barat</item>
+    </string-array>
+
+    <string-array name="detail_provinsi">
+        <item>Ibukota : Banda Aceh
+Tahun peresmian : 1959
+Populasi : 4,9 juta jiwa
+Luas wilayah : 57 ribu km persegi</item>
+        <item>Ibukota : Medan
+Tahun peresmian : 1956
+Populasi : 13,7 juta jiwa
+Luas wilayah : 72 ribu km persegi</item>
+        <item>Ibukota : Padang
+Tahun peresmian : 1957
+Populasi : 5,1 juta jiwa
+Luas wilayah : 42 ribu km persegi</item>
+        <item>Ibukota : Pekanbaru
+Tahun peresmian : 1957
+Populasi : 6,2 juta jiwa
+Luas wilayah : 95 ribu km persegi</item>
+        <item>Ibukota : Jambi
+Tahun peresmian : 1957
+Populasi : 3,3 juta jiwa
+Luas wilayah : 53 ribu km persegi</item>
+        <item>Ibukota : Palembang
+Tahun peresmian : 1950
+Populasi : 7,9 juta jiwa
+Luas wilayah : 85 ribu km persegi</item>
+        <item>Ibukota : Bengkulu
+Tahun peresmian : 1968
+Populasi : 1,8 juta jiwa
+Luas wilayah : 19 ribu km persegi</item>
+        <item>Ibukota : Bandar Lampung
+Tahun peresmian : 1964
+Populasi : 8,0 juta jiwa
+Luas wilayah : 35 ribu km persegi</item>
+        <item>Ibukota : Pangkal Pinang
+Tahun peresmian : 2000
+Populasi : 1,3 juta jiwa
+Luas wilayah : 16 ribu km persegi</item>
+        <item>Ibukota : Tanjung Pinang
+Tahun peresmian : 2002
+Populasi : 1,9 juta jiwa
+Luas wilayah : 8 ribu km persegi</item>
+        <item>Ibukota : Serang
+Tahun peresmian : 2000
+Populasi : 11,7 juta jiwa
+Luas wilayah : 9 ribu km persegi</item>
+        <item>Ibukota : Jakarta
+Tahun peresmian : 1961
+Populasi : 10 juta jiwa
+Luas wilayah : 740 km persegi</item>
+        <item>Ibukota : Bandung
+Tahun peresmian : 1950
+Populasi : 46 juta jiwa
+Luas wilayah : 35 ribu km persegi</item>
+        <item>Ibukota : Yogyakarta
+Tahun peresmian : 1950
+Populasi : 3,5 juta jiwa
+Luas wilayah : 3 ribu km persegi</item>
+        <item>Ibukota : Semarang
+Tahun peresmian : 1950
+Populasi : 33,5 juta jiwa
+Luas wilayah : 33 ribu km persegi</item>
+        <item>Ibukota : Surabaya
+Tahun peresmian : 1950
+Populasi : 38,6 juta jiwa
+Luas wilayah : 47 ribu km persegi</item>
+        <item>Ibukota : Denpasar
+Tahun peresmian : 1958
+Populasi : 4,1 juta jiwa
+Luas wilayah : 5 ribu km persegi</item>
+        <item>Ibukota : Kupang
+Tahun peresmian : 1958
+Populasi : 5 juta jiwa
+Luas wilayah : 47 ribu km persegi</item>
+        <item>Ibukota : Mataram
+Tahun peresmian : 1958
+Populasi : 4,7 juta jiwa
+Luas wilayah : 19 ribu km persegi</item>
+        <item>Ibukota : Pontianak
+Tahun peresmian : 1956
+Populasi : 4,7 juta jiwa
+Luas wilayah : 115 ribu km persegi</item>
+        <item>Ibukota : Palangka Raya
+Tahun peresmian : 1958
+Populasi : 2,4 juta jiwa
+Luas wilayah : 153 ribu km persegi</item>
+        <item>Ibukota : Banjarmasin
+Tahun peresmian : 1956
+Populasi : 3,9 juta jiwa
+Luas wilayah : 36 ribu km persegi</item>
+        <item>Ibukota : Samarinda
+Tahun peresmian : 1958
+Populasi : 3,3 juta jiwa
+Luas wilayah : 194 ribu km persegi</item>
+        <item>Ibukota : Tanjung Selor
+Tahun peresmian : 2012
+Populasi : 618 ribu jiwa
+Luas wilayah : 71 ribu km persegi</item>
+        <item>Ibukota : Gorontalo
+Tahun peresmian : 2000
+Populasi : 1,1 juta jiwa
+Luas wilayah : 12 ribu km persegi</item>
+        <item>Ibukota : Manado
+Tahun peresmian : 1960
+Populasi : 2,4 juta jiwa
+Luas wilayah : 13 ribu km persegi</item>
+        <item>Ibukota : Palu
+Tahun peresmian : 1963
+Populasi : 2,8 juta jiwa
+Luas wilayah : 68 ribu km persegi</item>
+        <item>Ibukota : Mamuju
+Tahun peresmian : 2004
+Populasi : 1,2 juta jiwa
+Luas wilayah : 16 ribu km persegi</item>
+        <item>Ibukota : Makassar
+Tahun peresmian : 1960
+Populasi : 8,4 juta jiwa
+Luas wilayah : 46 ribu km persegi</item>
+        <item>Ibukota : Kendari
+Tahun peresmian : 1964
+Populasi : 2,4 juta jiwa
+Luas wilayah : 36 ribu km persegi</item>
+        <item>Ibukota : Ambon
+Tahun peresmian : 1958
+Populasi : 1,7 juta jiwa
+Luas wilayah : 49 ribu km persegi</item>
+        <item>Ibukota : Sofifi
+Tahun peresmian : 1999
+Populasi : 1,1 juta jiwa
+Luas wilayah : 42 ribu km persegi</item>
+        <item>Ibukota : Jayapura
+Tahun peresmian : 1969
+Populasi : 3,1 juta jiwa
+Luas wilayah : 309 ribu km persegi
+</item>
+        <item>Ibukota : Manokwari
+Tahun peresmian : 1999
+Populasi : 849 ribu jiwa
+Luas wilayah : 114 ribu km persegi
+</item>
+
+    </string-array>
+</resources>
